@@ -24,6 +24,7 @@
             transition: all 0.2s ease-in-out;
             padding: 0 1px;
             border-radius: 2px;
+            white-space: nowrap;
 
             &:not(:last-child)::after{
                 content: ", "
