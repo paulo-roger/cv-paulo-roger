@@ -1,0 +1,135 @@
+BasicInfo:
+  FirstName: Paulo R.
+  LastName: Camargo
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +55 15 991 364 488
+    - Icon: fas fa-envelope
+      Info: me@pauloroger.dev
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://pauloroger.dev" target="_blank">pauloroger.dev</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Brazil
+
+Profile: Currently Freelancing as Salesforce Commerce Cloud Development, I have worked in the wind energy sector for seven years, within the supplier quality department and with experience in the manufacturing processes of light and heavy boiler works, welding, machining, and infusion of epoxy resin in fiberglass composites. Prior I have worked in the technical and commercial department of aviation engine workshops for three years.
+
+Experience:
+  - Employer: Nordex Energy
+    Place: São Paulo, BR
+    Positions:
+      - Title: Supplier Quality Assurance Engineer
+        Date: Oct 2014 - Oct 2021
+        Details:
+          - Managed suppliers of Boiler work (light and heavy), Large machined, electrical, hydraulic components, and composite materials (turbine housing and wind blades).
+          - Coordination of quality inspectors
+          - Analyze supplier performance statistics
+          - Non-conformity management and critical analysis of the supplier's action plan
+          - Supplier Audits (Production Process and ISO 9001 Quality System)
+          - Critical review meetings with supplier before production begins
+          - Monitoring the development of the production process (manufacture of first samples)
+          - Seek technical alternatives for cost reduction.
+          - Technical visits to suppliers for monitoring and studies in the improvement of the manufacturing process
+        Badges: ['Python', 'Excel', 'Leadership', 'Quality Assurance', 'Cost Management', 'Audit', 'FMEA']
+  - Employer: ZF steering systems
+    Place: Sorocaba, BR
+    Positions:
+      - Title: Purchasing Department Intern
+        Date: Mar 2014 - Oct 2014
+        Details:
+          - Support buyers in the process of purchasing productive materials (in aluminum, cast iron, forged steel, rubber, plastic, etc.) in the national and international market, to meet the company's production needs.
+        Badges: ['Purchasing', 'Automotive', 'SAP', 'Excel']
+  - Employer: Airturbine Aviation / GE Aviation Service Center
+    Place: Sorocaba, BR
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Technical/Commercial Representative
+        Date: 2010 - 2013
+        Details:
+          - Elaborated technical sheet, check lists and procedures for turbine maintenance services. Responsible for the relationship with international partners (GE Aviation Czech Republic and America, and Premiere Turbines America). Acted in the commercial department and aftermarket support. Also worked as representative on events such as LABACE (Latin American largest business aviation event) and SINDAG.
+        Badges: ['Commercial Representative', 'Aviation', 'Excel', 'Quality Assurance']
+
+Education:
+  - Employer: Sorocaba College of Engineering (FACENS)
+    Place: Sorocaba, BR
+    Positions:
+      - Title: Mechanical Engineering
+        Date: 2012 - 2016
+        Details: 
+          - Senior Thesis (Undergraduate Program) - Camargo, P. Heavy Boiler Supplier Homologation. Sorocaba, 2016, Mechanical Engineering Program.
+
+References:
+  - Name: Peterson Daniel, SFCC Architect at Atonit
+    Relation: SFCC Projects
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +55 (15) 99 669-1990
+    - Icon: fas fa-envelope
+      Info: contact@person-one.com
+    - Icon: fas fa-map-marker-alt
+      Info: São Paulo, Brazil
+  - Name: Luis Gainza, Director at Nordex Energy
+    Relation: Boss at Nordex Energy
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +1 (319) 834-0036
+    - Icon: fas fa-envelope
+      Info: lgainza@nordex-online.com
+    - Icon: fas fa-map-marker-alt
+      Info: Pamplona, Spain
+  - Name: Jeff LaBrue, Engineer at GE Aviation US
+    Relation: US partner at Premier Turbines/Airturbine Aviation
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +1 (620) 218-3817
+    - Icon: fas fa-envelope
+      Info: Jeffery.Labrue@ge.com
+    - Icon: fas fa-map-marker-alt
+      Info: Neosho, USA
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - NodeJS
+      - Python
+      - HTML 
+      - Pug
+      - Javascript
+      - CSS
+      - SQL
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Kubernetes
+      - Docker
+      - Oracle Cloud
+      - AWS
+  - Family: Misc
+    Items:
+      - LaTeX
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: Spanish
+    Level: B1
+
+Diplomas:
+  - Leader Auditor ISO 9001 (2015)
+  - English Cambridge CAE (2009)
+
+Interests:
+  - Linux
+  - FOSS
+  - Music
+  - Gym
+  - Phylosophy
+  - Languages

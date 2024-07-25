@@ -1,0 +1,32 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = false
+enableEmoji = true
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://cv.example.org/"
+title = "Example - CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#447782"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#447782"
+colorRightColumnBackground = "#eceef1"
+colorRightColumnHeadingText = "#447782"
+colorRightColumnBodyText = "#58595b"
+colorRightColumnIconPrimary = "#447782"
+colorRightColumnIconBackground = "#eceef1"
+pages = 1
+# Set this param to 'true' to swap the bar positions
+swapColumns = true
+
+[module]
+  [[module.imports]]
+    path = "almeida-cv"
+    disable = false
