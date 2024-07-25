@@ -6,7 +6,7 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: +55 15 991 364 488
     - Icon: fas fa-envelope
-      Info: me@pauloroger.dev
+      Info: <a class="contact__link" href="mailto:me@pauloroger.dev" target="_blank">me@pauloroger.dev</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://pauloroger.dev" target="_blank">pauloroger.dev</a>
     - Icon: fas fa-map-marker-alt
