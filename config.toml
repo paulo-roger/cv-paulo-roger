@@ -9,6 +9,7 @@ title = "Paulo R. Camargo"
 #googleAnalytics = ""
 
 [params]
+favicon = "img/favicon.webp"
 enableMetaTags = true
 colorLight = "#fff"
 colorDark = "#666"
