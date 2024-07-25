@@ -4,8 +4,8 @@ enableRobotsTXT = false
 enableEmoji = true
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://cv.example.org/"
-title = "Example - CV"
+baseURL = "https://cv.pauloroger.dev/"
+title = "Paulo R. Camargo"
 #googleAnalytics = ""
 
 [params]
