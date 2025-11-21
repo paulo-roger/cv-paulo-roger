@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +55 15 991 364 488
+      Info: <a class="contact__link" href="tel:+5515991364488" target="_blank">+55 15 991 36 4488</a>
     - Icon: fas fa-envelope
       Info: <a class="contact__link" href="mailto:me@pauloroger.dev" target="_blank">me@pauloroger.dev</a>
     - Icon: fas fa-globe
@@ -63,7 +63,7 @@ References:
     Relation: SFCC Projects
     Contacts:
     - Icon: fas fa-phone
-      Info: +55 (15) 99 669-1990
+      Info: +55 (15) 996 69 1990
     - Icon: fas fa-envelope
       Info: contact@person-one.com
     - Icon: fas fa-map-marker-alt
@@ -72,7 +72,7 @@ References:
     Relation: Boss at Nordex Energy
     Contacts:
     - Icon: fas fa-phone
-      Info: +1 (319) 834-0036
+      Info: +1 (319) 834 0036
     - Icon: fas fa-envelope
       Info: lgainza@nordex-online.com
     - Icon: fas fa-map-marker-alt
@@ -81,7 +81,7 @@ References:
     Relation: US partner at Premier Turbines/Airturbine Aviation
     Contacts:
     - Icon: fas fa-phone
-      Info: +1 (620) 218-3817
+      Info: +1 (620) 218 3817
     - Icon: fas fa-envelope
       Info: Jeffery.Labrue@ge.com
     - Icon: fas fa-map-marker-alt

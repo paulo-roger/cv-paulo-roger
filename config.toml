@@ -1,15 +1,18 @@
-languageCode = "en-us"
+languageCode = "en"
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
 enableRobotsTXT = false
 enableEmoji = true
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 baseURL = "https://cv.pauloroger.dev/"
 title = "Paulo R. Camargo"
+photo = "img/avatar.jpg"
 #googleAnalytics = ""
 
 [params]
 favicon = "img/favicon.webp"
+photo = "img/avatar.jpg"
 enableMetaTags = true
 colorLight = "#fff"
 colorDark = "#666"
@@ -23,7 +26,7 @@ colorRightColumnHeadingText = "#447782"
 colorRightColumnBodyText = "#58595b"
 colorRightColumnIconPrimary = "#447782"
 colorRightColumnIconBackground = "#eceef1"
-pages = 1
+pages = 2
 # Set this param to 'true' to swap the bar positions
 swapColumns = true
 
@@ -31,3 +34,19 @@ swapColumns = true
   [[module.imports]]
     path = "almeida-cv"
     disable = false
+
+[languages]
+[languages.en]
+languageName = "English"
+languageCode = 'en'
+weight = 1
+
+[languages.pt]
+languageName = "Português"
+languageCode = 'pt'
+weight = 2
+
+[languages.es]
+languageName = "Español"
+languageCode = 'es'
+weight = 3

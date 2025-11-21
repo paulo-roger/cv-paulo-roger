@@ -1,96 +1,117 @@
 BasicInfo:
-  FirstName: Paulo
-  LastName: Almeida
-  Photo: img/avatar.jpg
+  FirstName: Paulo R.
+  LastName: Camargo
+  Photo: https://pauloroger.dev/img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: <a class="contact__link" href="tel:+5515991364488" target="_blank">+55 15 991 36 4488</a>
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: <a class="contact__link" href="mailto:me@pauloroger.dev" target="_blank">me@pauloroger.dev</a>
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: <a class="contact__link" href="https://pauloroger.dev" target="_blank">pauloroger.dev</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Brazil
 
-Profile: Deutscher Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Currently Freelancing as Salesforce Commerce Cloud Development, I have worked in the wind energy sector for seven years, within the supplier quality department and with experience in the manufacturing processes of light and heavy boiler works, welding, machining, and infusion of epoxy resin in fiberglass composites. Prior I have worked in the technical and commercial department of aviation engine workshops for three years.
 
 Experience:
-  - Employer: Super Coole Firma
-    Place: Oxford, UK
+  - Employer: Nordex Energy
+    Place: São Paulo, BR
     Positions:
-      - Title: Software Entwicklerin
-        Date: Jan 2020 - Jetzt
+      - Title: Supplier Quality Assurance Engineer
+        Date: Oct 2014 - Oct 2021
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Testerin
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Eine andere Supertolle Firma
-    Place: Lisbon, PT
+          - Managed suppliers of Boiler work (light and heavy), Large machined, electrical, hydraulic components, and composite materials (turbine housing and wind blades).
+          - Coordination of quality inspectors
+          - Analyze supplier performance statistics
+          - Non-conformity management and critical analysis of the supplier's action plan
+          - Supplier Audits (Production Process and ISO 9001 Quality System)
+          - Critical review meetings with supplier before production begins
+          - Monitoring the development of the production process (manufacture of first samples)
+          - Seek technical alternatives for cost reduction.
+          - Technical visits to suppliers for monitoring and studies in the improvement of the manufacturing process
+        Badges: ['Python', 'Excel', 'Leadership', 'Quality Assurance', 'Cost Management', 'Audit', 'FMEA']
+  - Employer: ZF steering systems
+    Place: Sorocaba, BR
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Purchasing Department Intern
+        Date: Mar 2014 - Oct 2014
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+          - Support buyers in the process of purchasing productive materials (in aluminum, cast iron, forged steel, rubber, plastic, etc.) in the national and international market, to meet the company's production needs.
+        Badges: ['Purchasing', 'Automotive', 'SAP', 'Excel']
+  - Employer: Airturbine Aviation / GE Aviation Service Center
+    Place: Sorocaba, BR
+    Class: "experience__extra_padding"
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Technical/Commercial Representative
+        Date: 2010 - 2013
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Elaborated technical sheet, check lists and procedures for turbine maintenance services. Responsible for the relationship with international partners (GE Aviation Czech Republic and America, and Premiere Turbines America). Acted in the commercial department and aftermarket support. Also worked as representative on events such as LABACE (Latin American largest business aviation event) and SINDAG.
+        Badges: ['Commercial Representative', 'Aviation', 'Excel', 'Quality Assurance']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Employer: Sorocaba College of Engineering (FACENS)
+    Place: Sorocaba, BR
+    Positions:
+      - Title: Mechanical Engineering
+        Date: 2012 - 2016
+        Details: 
+          - Senior Thesis (Undergraduate Program) - Camargo, P. Heavy Boiler Supplier Homologation. Sorocaba, 2016, Mechanical Engineering Program.
+
+References:
+  - Name: Peterson Daniel, SFCC Architect at Atonit
+    Relation: SFCC Projects
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +55 (15) 996 69 1990
+    - Icon: fas fa-envelope
+      Info: contact@person-one.com
+    - Icon: fas fa-map-marker-alt
+      Info: São Paulo, Brazil
+  - Name: Luis Gainza, Director at Nordex Energy
+    Relation: Boss at Nordex Energy
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +1 (319) 834 0036
+    - Icon: fas fa-envelope
+      Info: lgainza@nordex-online.com
+    - Icon: fas fa-map-marker-alt
+      Info: Pamplona, Spain
+  - Name: Jeff LaBrue, Engineer at GE Aviation US
+    Relation: US partner at Premier Turbines/Airturbine Aviation
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +1 (620) 218 3817
+    - Icon: fas fa-envelope
+      Info: Jeffery.Labrue@ge.com
+    - Icon: fas fa-map-marker-alt
+      Info: Neosho, USA
+
 
 Skills:
   - Family: Programming
     Items:
+      - NodeJS
       - Python
-      - HTML (including Jinja)
+      - HTML 
+      - Pug
       - Javascript
       - CSS
-      - SASS
       - SQL
-      - C#
       - Bash
-      - MATLAB
   - Family: Frameworks
     Items:
-      - Django
-      - Flask
       - Hugo
       - React
   - Family: Developer Tools
     Items:
       - Git
+      - Kubernetes
       - Docker
-      - Jenkins
+      - Oracle Cloud
       - AWS
   - Family: Misc
     Items:
-      - Adobe Tools
       - LaTeX
 
 Languages:
@@ -100,17 +121,15 @@ Languages:
     Level: C2
   - Name: Spanish
     Level: B1
-  - Name: German
-    Level: B1
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
+  - Leader Auditor ISO 9001 (2015)
   - English Cambridge CAE (2009)
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
+  - Linux
+  - FOSS
+  - Music
+  - Gym
+  - Phylosophy
   - Languages

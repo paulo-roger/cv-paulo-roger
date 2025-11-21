@@ -1,0 +1,134 @@
+BasicInfo:
+  FirstName: Paulo R.
+  LastName: Camargo
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: <a class="contact__link" href="tel:+5515991364488" target="_blank">+55 15 991 36 4488</a>
+    - Icon: fas fa-envelope
+      Info: <a class="contact__link" href="mailto:me@pauloroger.dev" target="_blank">me@pauloroger.dev</a>
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://pauloroger.dev" target="_blank">pauloroger.dev</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Brasil
+
+Profile: Atualmente trabalhando como freelancer em Desenvolvimento de Salesforce Commerce Cloud, trabalhei no setor de energia eólica por sete anos, no departamento de qualidade de fornecedores e com experiência nos processos de fabricação de caldeiraria leve e pesada, soldagem, usinagem e infusão de resina epóxi em compósitos de fibra de vidro. Anteriormente, trabalhei no departamento técnico e comercial de oficinas de motores de aviação por três anos.
+
+Experience:
+  - Employer: Nordex Energy
+    Place: São Paulo, BR
+    Positions:
+      - Title: Engenheiro de Garantia de Qualidade de Fornecedores
+        Date: Out 2014 - Out 2021
+        Details:
+          - Gerenciamento de fornecedores de caldeiraria (leve e pesada), grandes usinados, componentes elétricos e hidráulicos e materiais compostos (carcaças de turbinas e pás de vento).
+          - Coordenação de inspetores de qualidade
+          - Análise de estatísticas de desempenho de fornecedores
+          - Gestão de não conformidades e análise crítica do plano de ação do fornecedor
+          - Auditorias de fornecedores (processo de produção e sistema de qualidade ISO 9001)
+          - Reuniões de revisão crítica com o fornecedor antes do início da produção
+          - Acompanhamento do desenvolvimento do processo de produção (fabricação das primeiras amostras)
+          - Busca de alternativas técnicas para redução de custos
+          - Visitas técnicas aos fornecedores para acompanhamento e estudos na melhoria do processo de fabricação
+        Badges: ['Python', 'Excel', 'Liderança', 'Garantia de Qualidade', 'Gestão de Custos', 'Auditoria', 'FMEA']
+  - Employer: ZF steering systems
+    Place: Sorocaba, BR
+    Positions:
+      - Title: Estagiário do Departamento de Compras
+        Date: Mar 2014 - Out 2014
+        Details:
+          - Apoio aos compradores no processo de aquisição de materiais produtivos (alumínio, ferro fundido, aço forjado, borracha, plástico, etc.) no mercado nacional e internacional, para atender às necessidades de produção da empresa.
+        Badges: ['Compras', 'Automotivo', 'SAP', 'Excel']
+  - Employer: Airturbine Aviation / GE Aviation Service Center
+    Place: Sorocaba, BR
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Representante Técnico/Comercial
+        Date: 2010 - 2013
+        Details:
+          - Elaboração de ficha técnica, listas de verificação e procedimentos para serviços de manutenção de turbinas. Responsável pelo relacionamento com parceiros internacionais (GE Aviation República Tcheca e América, e Premiere Turbines América). Atuação no departamento comercial e suporte pós-venda. Também trabalhou como representante em eventos como LABACE (maior evento de aviação executiva da América Latina) e SINDAG.
+        Badges: ['Representante Comercial', 'Aviação', 'Excel', 'Garantia de Qualidade']
+
+Education:
+  - Employer: Faculdade de Engenharia de Sorocaba (FACENS)
+    Place: Sorocaba, BR
+    Positions:
+      - Title: Engenharia Mecânica
+        Date: 2012 - 2016
+        Details: 
+          - Trabalho de Conclusão de Curso (Programa de Graduação) - Camargo, P. Homologação de Fornecedores de Caldeiraria Pesada. Sorocaba, 2016, Programa de Engenharia Mecânica.
+
+References:
+  - Name: Peterson Daniel, Arquiteto SFCC na Atonit
+    Relation: Projetos SFCC
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +55 (15) 996 69 1990
+    - Icon: fas fa-envelope
+      Info: contact@person-one.com
+    - Icon: fas fa-map-marker-alt
+      Info: São Paulo, Brasil
+  - Name: Luis Gainza, Diretor na Nordex Energy
+    Relation: Chefe na Nordex Energy
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +1 (319) 834 0036
+    - Icon: fas fa-envelope
+      Info: lgainza@nordex-online.com
+    - Icon: fas fa-map-marker-alt
+      Info: Pamplona, Espanha
+  - Name: Jeff LaBrue, Engenheiro na GE Aviation US
+    Relation: Parceiro nos EUA na Premier Turbines/Airturbine Aviation
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +1 (620) 218 3817
+    - Icon: fas fa-envelope
+      Info: Jeffery.Labrue@ge.com
+    - Icon: fas fa-map-marker-alt
+      Info: Neosho, EUA
+
+Skills:
+  - Family: Programação
+    Items:
+      - NodeJS
+      - Python
+      - HTML 
+      - Pug
+      - Javascript
+      - CSS
+      - SQL
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Hugo
+      - React
+  - Family: Ferramentas de Desenvolvimento
+    Items:
+      - Git
+      - Kubernetes
+      - Docker
+      - Oracle Cloud
+      - AWS
+  - Family: Vários
+    Items:
+      - LaTeX
+
+Languages:
+  - Name: Português
+    Level: Nativo
+  - Name: Inglês
+    Level: C2
+  - Name: Espanhol
+    Level: B1
+
+Diplomas:
+  - Auditor Líder ISO 9001 (2015)
+  - Inglês Cambridge CAE (2009)
+
+Interests:
+  - Linux
+  - FOSS
+  - Música
+  - Academia
+  - Filosofia
+  - Idiomas
